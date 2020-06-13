@@ -1,0 +1,2 @@
+{'mail': 'kldiashvilinika@gmail.com', 'password': 'nika123', 'gender': 2}
+{'mail': 'nika', 'password': '123', 'gender': 2}
